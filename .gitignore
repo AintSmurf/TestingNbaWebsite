@@ -1,0 +1,5 @@
+target/
+.idea/
+src/test/cucumber-reports/
+src/main/
+src/test/java/main.java
